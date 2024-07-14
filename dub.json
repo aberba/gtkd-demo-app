@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Lawrence Aberba"
+	],
+	"copyright": "Copyright © 2024, Lawrence Aberba",
+	"dependencies": {
+		"d2sqlite3": "~>1.0.0",
+		"gtk-d": "~>3.10.0"
+	},
+	"description": "A minimal D application.",
+	"license": "BSL-1.0",
+	"name": "gtkd-demo"
+}

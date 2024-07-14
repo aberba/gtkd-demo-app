@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/gtkd-demo
+gtkd-demo.so
+gtkd-demo.dylib
+gtkd-demo.dll
+gtkd-demo.a
+gtkd-demo.lib
+gtkd-demo-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
